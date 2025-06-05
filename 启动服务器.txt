@@ -1,0 +1,2 @@
+第一个CMD：node server.js
+第二个CMD：ngrok http 8080
